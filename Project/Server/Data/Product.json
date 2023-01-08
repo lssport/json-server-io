@@ -1,29 +1,29 @@
 [
   {
      "id": 1,
-     "brand": " CASE IPHONE G19", 
-     "description": "", 
+     "brand": " CASE IPHONE G09", 
+     "description": "This is Case IPhone", 
      "price": 24000,
      "promo": 20000,
      "Category": "SMARTPHONE", 
-     "image":[""]
+     "image":["/storage/emulated/0/DCIM/Camera/IMG_20230107_112425.jpg"
    }, 
    {
      "id": 1,
      "brand": " CASE IPHONE G19", 
-     "description": "", 
+     "description": "This is Dash", 
      "price": 24000,
      "promo": 20000,
      "Category": "SMARTPHONE", 
-     "image":[""]
+     "image":["/storage/emulated/0/DCIM/Camera/IMG_20230107_112425.jpg"
     }, 
     {
      "id": 1,
-     "brand": " CASE IPHONE G19", 
-     "description": "", 
+     "brand": " CASE IPHONE G29", 
+     "description": "This is Part", 
      "price": 24000,
      "promo": 20000,
      "Category": "SMARTPHONE", 
-     "image":[""]
+     "image":["/storage/emulated/0/DCIM/Camera/IMG_20230107_112425.jpg"]
      }
 ]
