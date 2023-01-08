@@ -43,7 +43,7 @@ if(!findProduct) {
     "price" : 2500000,
     "promo" : 2000000,
     "category" : "SMARTPHONE", 
-    "image" : ["
+    "image" : ["/storage/emulated/0/DCIM/Camera/IMG_20230107_112248_1.jpg"]
 }]
  return dummy
 }
