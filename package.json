@@ -4,9 +4,8 @@
   "description": "", 
   "type": "module", 
   "main": "index.js", 
-  Debug
   "scripts": {
-    "test": "echo\Error:no test specified\" && exit 1"
+    "test": "echo \Error:no test specified\" && exit 1"
   },
   "keyword": [], 
   "author": "", 
